@@ -10,6 +10,11 @@
 Задача 2
 2.1. Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
 
+Решение:
+
+<img width="1221" alt="image" src="https://github.com/Franky12111990/Home_Works/assets/121640886/614d4430-6ef4-4536-8794-7c80347bdf2d">
+
+
 2.2.* (Необязательное задание)
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud). Используйте Terraform-код в директории (src/terraform).
 
