@@ -21,7 +21,6 @@
 
 Решение:
 
-<img width="597" alt="image" src="https://github.com/Franky12111990/Home_Works/assets/121640886/35ed7dc7-9feb-4863-a04c-d03186a9ae21">
+<img width="950" alt="image" src="https://github.com/Franky12111990/Home_Works/assets/121640886/071082c8-724b-4d0a-a5b9-d189690d46c3">
 
-<img width="416" alt="image" src="https://github.com/Franky12111990/Home_Works/assets/121640886/46a16800-ac5b-4972-99db-b6770cc2c753">
 
