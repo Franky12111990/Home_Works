@@ -12,7 +12,8 @@
 
 Решение:
 
-<img width="1221" alt="image" src="https://github.com/Franky12111990/Home_Works/assets/121640886/614d4430-6ef4-4536-8794-7c80347bdf2d">
+<img width="998" alt="image" src="https://github.com/Franky12111990/Home_Works/assets/121640886/f93df3af-8db0-4244-9121-8743cc269e37">
+
 
 
 2.2.* (Необязательное задание)
@@ -25,6 +26,10 @@
 
 Чтобы получить зачёт, вам нужно предоставить вывод команды "docker ps" , все контейнеры, описанные в docker-compose, должны быть в статусе "Up".
 
+Решение:
+<img width="935" alt="image" src="https://github.com/Franky12111990/Home_Works/assets/121640886/d4fa7ffd-7d14-425b-a039-624dfe4dd109">
+
+
 Задача 4
 Откройте веб-браузер, зайдите на страницу http://<внешний_ip_адрес_вашей_ВМ>:3000.
 Используйте для авторизации логин и пароль из .env-file.
@@ -33,6 +38,9 @@
 Чтобы получить зачёт, предоставьте:
 
 скриншот работающего веб-интерфейса Grafana с текущими метриками, как на примере ниже.
+
+Решение:
+<img width="908" alt="image" src="https://github.com/Franky12111990/Home_Works/assets/121640886/fce1c948-f594-4abf-9433-76e6927b2a85">
 
 
 Задача 5 (*)
